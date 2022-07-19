@@ -1,2 +1,2 @@
 /*
-  Content-Security-Policy: default-src 'self';
+  Content-Security-Policy: script-src 'self'; style-src 'self' 'unsafe-inline';
