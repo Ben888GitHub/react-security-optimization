@@ -1,0 +1,41 @@
+Content Security Policy
+- https://content-security-policy.com/
+- https://docs.netlify.com/routing/headers/
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy
+- https://codeboosh.com/setting-security-headers-with-netlify/
+- https://stackoverflow.com/questions/69401770/how-to-set-x-frame-options-and-content-security-policy-on-netlify
+
+X-Frame-Options
+- https://docs.netlify.com/routing/headers/
+- https://www.anycodings.com/questions/how-to-set-headers-for-a-react-app-created-using-create-react-app
+- https://codehunter.cc/a/reactjs/how-to-set-headers-for-a-react-app-created-using-create-react-app
+- https://answers.netlify.com/t/change-the-header-x-frame-options-to-one-of-my-environments/27974
+- https://codeboosh.com/setting-security-headers-with-netlify/
+- https://stackoverflow.com/questions/69401770/how-to-set-x-frame-options-and-content-security-policy-on-netlify
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
+
+X-XSS-Protection
+- https://docs.netlify.com/routing/headers/
+- https://www.geeksforgeeks.org/http-headers-x-xss-protection/
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-XSS-Protection
+- https://stackoverflow.com/questions/63613397/where-to-place-secure-headers-in-the-application
+- https://codeboosh.com/setting-security-headers-with-netlify/
+
+X-Content-Type-Options
+- https://docs.netlify.com/routing/headers/
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Content-Type-Options
+- https://www.geeksforgeeks.org/http-headers-x-content-type-options/
+- https://codeboosh.com/setting-security-headers-with-netlify/
+
+Referrer-Policy
+- https://docs.netlify.com/routing/headers/
+- https://codeboosh.com/setting-security-headers-with-netlify/
+
+Permissions-Policy
+- https://docs.netlify.com/routing/headers/
+- https://codeboosh.com/setting-security-headers-with-netlify/
+
+Prevent XSS Attack directly in the browser
+- https://www.upbeatcode.com/react/xss-in-react-everything-you-need-to-know/
+- https://levelup.gitconnected.com/protecting-against-xss-attacks-in-react-52442d9fff4c
+- https://dev.to/spukas/preventing-xss-in-react-applications-5f5j
