@@ -1,2 +1,2 @@
 /*
-  Content-Security-Policy: script-src 'self'; style-src 'self' 'unsafe-inline'; frame-src 'none'; frame-ancestors 'none'
+  Content-Security-Policy: script-src 'self'; style-src 'self' 'unsafe-inline'; frame-src 'none'; frame-ancestors 'none';
